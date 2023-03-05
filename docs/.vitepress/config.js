@@ -62,6 +62,16 @@ export default {
                     ],
                 },
             ],
+            "/about-ai/": [
+                {
+                    text: "关于AI创作",    //标签名字
+                    collapsible: true,    //是不是可以动态展开
+                    collapsed: false,      //默认是不是展开
+                    items: [              //孩子
+                        { text: "企鹅群", link: "/about-ai/about-ai.md" },
+                    ],
+                },
+            ],
         },
         footer: {
             message: 'Released under the MIT License.',

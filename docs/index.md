@@ -14,7 +14,7 @@ hero:
       link: /Stable-Siffusion-Webui/getting-started.md
     - theme: alt
       text: 关于AI创作
-      link: /Wenet/getting-started.md
+      link: /about-ai/about-ai.md
 
 features:
   - icon: ⚡️

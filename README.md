@@ -3,4 +3,4 @@
 
 # 加群
 扫码进群：  
-![AI创作群二维码](AI-image.webp)
+![AI创作群二维码](docs/AI-image.webp)
