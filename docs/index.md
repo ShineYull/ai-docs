@@ -18,13 +18,13 @@ hero:
 
 features:
   - icon: ⚡️
-    title: Stable Siffusion Webui
-    details: AI绘画
+    title: AI绘画
+    details: 该板块讲解一切关于AI绘画的内容。
     link: /Stable-Siffusion-Webui/getting-started.md
     linkText: 了解更多
   - icon: 🖖
-    title: Wenet
-    details: 语音识别
+    title: 语音识别
+    details: 该板块讲解一切关于语音识别的内容。
     link: /Wenet/getting-started.md
     linkText: 了解更多
 ---

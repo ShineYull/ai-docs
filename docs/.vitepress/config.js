@@ -40,7 +40,7 @@ export default {
                     collapsible: true,    //是不是可以动态展开
                     collapsed: false,      //默认是不是展开
                     items: [              //孩子
-                        { text: "拉取项目", link: "/Stable-Siffusion-Webui/install" },
+                        { text: "本地部署", link: "/Stable-Siffusion-Webui/install" },
                     ],
                 },
             ],
