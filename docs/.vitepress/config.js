@@ -43,6 +43,14 @@ export default {
                         { text: "本地部署", link: "/Stable-Siffusion-Webui/install" },
                     ],
                 },
+                {
+                    text: "使用",    //标签名字
+                    collapsible: true,    //是不是可以动态展开
+                    collapsed: false,      //默认是不是展开
+                    items: [              //孩子
+                        { text: "文字生成图片", link: "/Stable-Siffusion-Webui/txt2img" },
+                    ],
+                },
             ],
             "/Wenet/": [
                 {
