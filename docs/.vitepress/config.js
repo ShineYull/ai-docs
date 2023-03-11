@@ -95,7 +95,7 @@ export default {
             copyright: 'Copyright ©2023 By <a href="https://github.com/shineyull">Shine</a>'
         },
         editLink: {
-            pattern: 'https://github.com/shineyull',
+            pattern: 'https://github.com/ShineYull/ai-docs/issues',
             text: '欢迎提issues'
         },
     },
