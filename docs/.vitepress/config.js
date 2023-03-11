@@ -17,7 +17,7 @@ export default {
               { text: "GAN网络", link: "/articles/vue/index" },
             ],
           },
-          { text: "机器学习", link: "/leetcode/LEET_CODE题解/47. 全排列 II" },   //这种是没有下拉菜单的版本
+          { text: "机器学习", link: "/articles/basic/index" },   //这种是没有下拉菜单的版本
         ],
         algolia: {
             appId: '...',
