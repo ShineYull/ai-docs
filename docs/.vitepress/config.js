@@ -50,6 +50,15 @@ export default {
                     items: [              //孩子
                         { text: "文字生成图片", link: "/Stable-Siffusion-Webui/txt2img" },
                         { text: "lora模型使用", link: "/Stable-Siffusion-Webui/lora" },
+                        { text: "图片生成图片", link: "/Stable-Siffusion-Webui/img2img" },
+                    ],
+                },
+                {
+                    text: "解决问题",    //标签名字
+                    collapsible: true,    //是不是可以动态展开
+                    collapsed: false,      //默认是不是展开
+                    items: [              //孩子
+                        { text: "生成的图片模糊灰暗", link: "/Stable-Siffusion-Webui/image-generation-problem" },
                     ],
                 },
                 {
@@ -58,6 +67,7 @@ export default {
                     collapsed: false,      //默认是不是展开
                     items: [              //孩子
                         { text: "ControlNet", link: "/Stable-Siffusion-Webui/controlnet" },
+                        { text: "Mov2mov", link: "/Stable-Siffusion-Webui/mov2mov" },
                     ],
                 },
             ],
