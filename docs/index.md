@@ -10,8 +10,8 @@ hero:
     alt: logo
   actions:
     - theme: brand
-      text: 开始探索 →
-      link: /Stable-Siffusion-Webui/getting-started.md
+      text: AiCreate项目 →
+      link: https://github.com/ShineYull/Ai-Create
     - theme: alt
       text: 关于AI创作
       link: /about-ai/about-ai.md
