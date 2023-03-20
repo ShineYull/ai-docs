@@ -108,5 +108,6 @@ export default {
             pattern: 'https://github.com/ShineYull/ai-docs/issues',
             text: '欢迎提issues'
         },
+        lastUpdatedText: "最近一次更新",
     },
 }
