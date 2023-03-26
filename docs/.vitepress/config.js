@@ -17,7 +17,13 @@ export default {
               { text: "GAN网络", link: "/articles/vue/index" },
             ],
           },
-          { text: "机器学习", link: "/articles/basic/index" },   //这种是没有下拉菜单的版本
+          { text: "机器学习",
+            items: [                  //这种格式是有下拉菜单的版本
+                { text: "线性回归", link: "/articles/basic/index" },      //text代表每一项的名字，link是连接的位置
+                { text: "逻辑回归", link: "/articles/vue/index" },
+                { text: "KNN最邻近", link: "/articles/vue/index" },
+            ],
+          },   //这种是没有下拉菜单的版本
         ],
         algolia: {
             appId: '...',
